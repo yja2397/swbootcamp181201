@@ -1,0 +1,22 @@
+@font-face{
+    font-family: 'HU맞춤고딕와이드140.ttf';
+    src: url(HU맞춤고딕와이드140.ttf) format('truetype');
+}
+
+*{
+    font-family: 'HU맞춤고딕와이드140.ttf';
+
+}
+
+body{
+    margin-left: 278px;
+    font-size:20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    padding-bottom: 10px;
+}

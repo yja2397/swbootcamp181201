@@ -1,0 +1,52 @@
+@font-face{
+    font-family: 'HU맞춤고딕와이드140.ttf';
+    src: url(HU맞춤고딕와이드140.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'BMDOHYEON_ttf.ttf';
+    src: url('BMDOHYEON_ttf.ttf') format('truetype');
+}
+
+*{
+    font-family: 'HU맞춤고딕와이드140.ttf';
+}
+
+#caption{
+    text-align: center;
+    font-size:80px;
+    font-family: 'BMDOHYEON_ttf.ttf';
+}
+
+#caption a{
+    text-decoration: none;
+}
+
+.intro{
+
+    height: 60px;
+}
+
+div.img{
+    float: left;
+    height: 0px;
+    border: 0.2px solid black;
+}
+
+img{
+    width: 300px;
+    height: 320px;
+}
+iframe{
+    width:100%;
+    height: 100%;
+    border: 0;
+}
+
+.first{
+    height: 707px;
+}
+
+.second{
+    height: 500px;
+}
